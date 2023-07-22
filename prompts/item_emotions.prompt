@@ -1,0 +1,14 @@
+I'll send the title of a Netflix item, along with its summary and genres.
+
+Title: {title}
+Summary: {summary}
+Genres: {genres}
+
+Produce a list of 8 emotions that you think this item would make the watcher feel.
+Additionally, I want you to describe the movie plot with some emojis.
+Provide a list of comma separated values.
+
+Sample output:
+
+emotions: [adventure, excitement, heroism, wonder]
+emojis: 🧞‍☠️🚪

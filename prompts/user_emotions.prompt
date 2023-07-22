@@ -1,0 +1,13 @@
+I will send you a description of how I'm feeling, you should respond with a comma-separated list of emotions.
+
+Examples:
+
+Input: "That was such a great day!"
+Output: emotions: [happiness, excitement, joy]
+
+Input: "I'm so pissed off"
+Output: emotions: [anger, discomfort, irritation]
+
+Answer with a list of emotions from 1 to 8 for the following input:
+
+{user_input}
