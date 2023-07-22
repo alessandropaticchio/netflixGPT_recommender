@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "netflixGPT"
+version = "0.1.0"
+description = ""
+authors = ["alessandropaticchio <alessandropaticchio@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.3"
+langchain = "^0.0.238"
+pymilvus = "^2.2.13"
+openai = "^0.27.8"
+tiktoken = "^0.4.0"
+gradio = "^3.38.0"
+googlesearch-python = "^1.2.3"
+beautifulsoup4 = "^4.12.2"
+numpy = "^1.25.1"
+Pillow = "^10.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
