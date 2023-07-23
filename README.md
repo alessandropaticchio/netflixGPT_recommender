@@ -19,7 +19,7 @@ You can watch a short demo of how it works [here](https://www.youtube.com/watch?
 
 ## Data collection
 
-I started by Kaggle's Dataset [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
+I started by downloading Kaggle's Dataset [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies).
 This dataset (which I sampled 2k datapoints from) contains information on a range of Netflix items,
 including their **title**, **genres** and **description**.
 
